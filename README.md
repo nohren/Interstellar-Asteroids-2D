@@ -1,4 +1,4 @@
-# Interstellar-Asteroids-2D
+# :milky_way: Interstellar-Asteroids-2D :new_moon: :rocket:
 
 My first Unity project :muscle:
 
